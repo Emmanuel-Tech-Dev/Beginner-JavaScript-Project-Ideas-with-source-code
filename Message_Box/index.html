@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <div class="cta">
+      
+        <div id="box">
+            <div id="wrapper">
+	        <form id="text" action=https://formspree.io/f/xnqlgloq method="POST"
+name=”EmailForm”> 
+            <label for="firstName">
+               First Name: <input type="text" id="firstName" name="firstName" placeholder="Enter First Name" required>
+            </label><br>
+             <label for="LastName"><br>
+               Last Name:  <input type="text" id="lastName" name="lastName" placeholder="Enter Last Name" required>
+            </label>  
+            <label for="Email"><br>
+               Email:  <input type="Email" name="email" placeholder="your@email.com" required>
+            </label>
+                <br>
+                <textarea placeholder="Enter Message" name="message" id="message" spellcheck="true"></textarea>
+                <button id="send" type=submit>Submit</button>
+            </form>
+             </div>
+        </div>
+
+         <div Id="status"></div>
+         <button class="button" id="button">Cta</button>
+        
+        
+      
+    </div>
+
+
+    <script src="app.js"></script>
+</body>
+</html>

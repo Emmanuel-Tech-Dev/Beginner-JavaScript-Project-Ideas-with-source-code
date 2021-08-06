@@ -1,2 +1,4 @@
 # Beginner-JavaScript-Project-Ideas-with-source-code
-A Developer learn by doing
+A Developer learns by doing
+
+Open for contributions

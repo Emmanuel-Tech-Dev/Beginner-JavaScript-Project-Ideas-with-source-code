@@ -52,7 +52,7 @@ projects
   .https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/Message_Box/index.html
 
 3.Tip Calulator
-   .https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/Tip/index.html
+   .https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/Tip%20Calculator/index.html
 
 
 4.Random background color generator

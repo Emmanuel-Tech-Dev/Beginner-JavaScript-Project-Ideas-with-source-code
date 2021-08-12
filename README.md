@@ -25,3 +25,6 @@ bootstrap
 css3
 figma
 html5
+
+projects
+1.https://raw.githack.com/Emmanuel-Tech-Dev/Beginner-JavaScript-Project-Ideas-with-source-code/tree/main/DarkMode--Counter/index.html

@@ -27,4 +27,4 @@ figma
 html5
 
 projects
-1.https://raw.githack.com/Emmanuel-Tech-Dev/Beginner-JavaScript-Project-Ideas-with-source-code/tree/main/DarkMode--Counter/index.html
+1.https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/DarkMode--Counter/index.

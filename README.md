@@ -29,9 +29,9 @@ html5
 projects
 1.https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/DarkMode--Counter/index.
 
-2.https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/Massage-Box/index.
+2.https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/Massage_Box/index.
 
-3.https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/Tip-Calculater/index.
+3.https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/TipCalculator/index.
 
 4.
 

@@ -50,5 +50,5 @@ html5
 6.HUMBURGER MENU:
   .https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/humburger/index.html
 
-7.TODO LIST:
+7.TODO LIST(with keyboard functionalities like ENTER to add an item and DELETE to remove an item):
   ..https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/To-Do%20list/index.html

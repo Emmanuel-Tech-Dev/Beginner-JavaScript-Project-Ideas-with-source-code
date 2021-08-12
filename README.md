@@ -59,6 +59,8 @@ projects
   .https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/background-color/index.html
 
 5.Humberger
-  .https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/humburger/index.html
+  .https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/humburger%20Menu/index.html
 
+6.Humburger
+  ..https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/humburger/index.html
 

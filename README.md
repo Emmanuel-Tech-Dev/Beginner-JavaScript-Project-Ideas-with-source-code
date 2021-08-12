@@ -30,6 +30,8 @@ html5
 
    POJECTS LIVE DEMO
 -------------------------------
+*For better view of projects, Access projects on larger screens like laptop or desktop* 
+----
 
 1.DARKMODE--COUNTER:
    .https://emmanuel-tech-dev.github.io/Beginner-JavaScript-Project-Ideas-with-source-code/DarkMode--Counter/index.html
